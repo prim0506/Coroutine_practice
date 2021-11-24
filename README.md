@@ -5,5 +5,5 @@
 uses-permission android:name="android.permission.INTERNET"
 
 # build.gradle
-implementation 'com.squareup.okhttp3:okhttp:4.9.0'
+implementation 'com.squareup.okhttp3:okhttp:4.9.0'<br />
 implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.2'
