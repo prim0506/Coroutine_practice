@@ -2,7 +2,7 @@
 코틀린 코루틴과 http통신
 
 # manifests
-<uses-permission android:name="android.permission.INTERNET"/>
+uses-permission android:name="android.permission.INTERNET"
 
 # build.gradle
 implementation 'com.squareup.okhttp3:okhttp:4.9.0'
